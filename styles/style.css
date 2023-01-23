@@ -1,0 +1,208 @@
+/* CSS STYLESHEET*/
+
+/******CSS FOR THE TITLE TEXT*********/
+.title{
+    outline:none;
+    text-align: left;
+    font-family:  font-family: 'Times New Roman', serif;
+    font-size:200px;
+    color: darkgreen;    
+}
+.title:link{
+    text-decoration: none;
+}
+.title:hover{
+    color: lightgreen;
+}
+.title:active{
+    color:yellow;
+}
+/****************************/
+
+
+/********LINE 1 CSS***********/
+
+
+
+.a1{
+    position:absolute;
+    top:-89px;
+    text-align: left;
+   
+    font-size:100px;
+    color:black;
+}
+
+.line1{
+   
+    position: absolute;
+    top: 55px;
+    right: 49px;
+    font-size: 39px;
+    color: darkgreen;
+    
+}
+
+.line1:link{
+    text-decoration:none;
+}
+
+.line1:hover{
+    color:lightgreen;
+}
+
+.line1:active{
+    color:yellow;
+}
+
+
+
+/****************************/
+
+
+/*******LINE 2 CSS***********/
+
+
+.this{
+    position:absolute;
+    top:-90px;
+    font-size:100px;
+
+}
+
+.deep{
+     position:absolute;
+     top:-90px;
+     right:10px;
+      font-size:100px;
+}
+
+
+.in{
+    position:absolute;
+    top: 300px;
+    left:600px;
+     font-size:100px;
+    
+	 
+}
+
+.fall{
+    position:absolute;
+    left:10px;
+    bottom: 100px;
+    font-size:100px;
+    color:darkgreen;
+
+}
+
+.fall:link{
+    text-decoration:none;
+}
+
+.fall:hover{
+    color:lightgreen;
+}
+
+.fall:active{
+    color:yellow;
+}
+
+
+
+/*********************************/
+
+
+
+/********CSS LINE 3****************/
+
+
+.still{
+    position:absolute;
+    top:-90px;
+    font-size:100px;
+
+}
+
+.not{
+     position:absolute;
+     top:-90px;
+     right: 100px;
+    font-size:100px;
+
+}
+
+.a2{
+     position:absolute;
+     top:400px;
+     left:500px;
+    font-size:100px;
+
+}
+
+.butterfly{
+
+    position:absolute;
+    bottom:50px;
+    font-size: 400px;
+    color:darkgreen;
+    
+
+}
+
+.butterfly:link{
+    text-decoration:none;
+}
+
+.butterfly:hover{
+    color:lightgreen;
+}
+
+.butterfly:active{
+    color:yellow;
+}
+
+
+
+/*********************************/
+
+
+
+/*******AUTHOR******************/
+
+
+.author{
+    position: absolute;
+    top:100px;
+      left: 430px;
+      rotate:20deg;
+      font-size: 41px;
+      color: red;
+}
+
+.author2{
+     position: absolute;
+  top: 100px;
+  left: 712px;
+  rotate: -20deg;
+  font-size: 41px;
+  color: red;
+}
+
+
+.author:link{
+    text-decoration:none;
+}
+
+.author:hover{
+    color:purple;
+}
+
+.author:active{
+    color:orange;
+}
+
+
+/**************************/
+
+
